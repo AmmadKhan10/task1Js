@@ -1,0 +1,133 @@
+.main-heading {
+    margin: 4vw 0vw 2vw 10vw;
+    font-size: 2vw;
+}
+.parent1 input{
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+}
+.parent1 button{
+    width: 10%;
+    padding: 5px;
+    margin: 2vw 0vw 0vw 13vw;
+    background-color: rgb(24, 24, 32);
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+.parent2 >input{
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+}
+#position {
+    margin-top: 2vw;
+}
+.parent2 button{
+    width: 10%;
+    padding: 5px;
+    margin: 2vw 0vw 0vw 13vw;
+    background-color: rgb(24, 24, 32);
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+.parent3 >input{
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+}
+.parent3 button{
+    width: 10%;
+    padding: 5px;
+    margin: 2vw 0vw 0vw 13vw;
+    background-color: rgb(24, 24, 32);
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+.parent4 >input{
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+}
+.parent4 button{
+    width: 10%;
+    padding: 5px;
+    margin: 2vw 0vw 0vw 13vw;
+    background-color: rgb(24, 24, 32);
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+.parent5 >input{
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+}
+.parent5 button{
+    width: 10%;
+    padding: 5px;
+    margin: 2vw 0vw 0vw 13vw;
+    background-color: rgb(24, 24, 32);
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+.parent6 >input{
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+}
+.parent6 button{
+    width: 10%;
+    padding: 5px;
+    margin: 2vw 0vw 0vw 13vw;
+    background-color: rgb(24, 24, 32);
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+.parent7 >input{
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+}
+.parent7 button{
+    width: 10%;
+    padding: 5px;
+    margin: 2vw 0vw 0vw 13vw;
+    background-color: rgb(24, 24, 32);
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+.parent8 >input{
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+}
+.parent8 button{
+    width: 10%;
+    padding: 5px;
+    margin: 2vw 0vw 0vw 13vw;
+    background-color: rgb(24, 24, 32);
+    color: white;
+    font-size: 1vw;
+    border-radius: 10px;
+}
+/* .parent2 >input:nth-of-type(1){
+    width: 20%;
+    height: 2vw;
+    padding: 5px;
+    margin-left: 8vw;
+} */
